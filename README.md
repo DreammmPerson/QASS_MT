@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-1.2.4-orange)
 ![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-yellowgreen)
+![Topic Modeling](https://img.shields.io/badge/Topic%20Modeling-LDA-blueviolet)
 
 ## 🎓 Thesis Overview
 
@@ -50,5 +51,5 @@ These studies provide a foundation for understanding the diverse perspectives on
 For more information, please contact:
 
 **Xinran Li**  
-Email: [xinran.li@example.com](mailto:xinran.li@example.com)  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+Email: [xr216@outlook.com](mailto:xr216@outlook.com)  
+GitHub: [https://github.com/DreammmPerson](https://github.com/DreammmPerson)
