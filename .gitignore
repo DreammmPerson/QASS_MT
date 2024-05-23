@@ -1,0 +1,15 @@
+*.csv
+*.txt
+*.png
+saved_models_student/
+saved_models_teacher/
+SentiStrengthDataEnglishOctober2019/
+*.zip
+*.doc
+*.docx
+*.pkl
+TEST/
+API_Testing.py
+Reddit_API.py
+Reddit_Data_Exploration.ipynb
+SentiStrengthCom.jar
